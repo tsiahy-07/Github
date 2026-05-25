@@ -1,0 +1,1 @@
+print("Hello l'équipe ! Le projet est lancé.")
