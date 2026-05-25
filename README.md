@@ -1,2 +1,2 @@
 # Github
-Ceci est un petit projet de test pour tester les fonctionnalités de Github et Gitbash.
+Ceci est un petit test pour tester les fonctionnalités de Github et Gitbash.
